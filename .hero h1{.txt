@@ -1,0 +1,31 @@
+.hero h1{
+
+    font-size:70px;
+
+    font-weight:800;
+
+    max-width:900px;
+
+    line-height:1.1;
+
+    margin-bottom:25px;
+
+    background:linear-gradient(90deg,#ffffff,#06b6d4,#7c3aed);
+
+    -webkit-background-clip:text;
+
+    -webkit-text-fill-color:transparent;
+
+}
+
+.hero p{
+
+    max-width:800px;
+
+    font-size:20px;
+
+    color:#cbd5e1;
+
+    line-height:1.8;
+
+}
